@@ -47,6 +47,7 @@ The following specs were used to create the original solution.
 |   +-- test_images
 |   |   +-- zzz.jpg
 |   |   +-- www.jpg
+|   |   +-- ...
 +-- ...
 .
 ```
