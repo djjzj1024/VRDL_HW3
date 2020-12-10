@@ -25,6 +25,10 @@ The following specs were used to create the original solution.
 
 ## Preparation
 
+Please install the MMDetection first, you can find the tutorial on their GitHub site.
+
+Your working directory should be similar as follow
+
 ```
 .
 {WORK_DIR}
