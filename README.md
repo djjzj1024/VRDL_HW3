@@ -25,9 +25,9 @@ The following specs were used to create the original solution.
 
 ## Preparation
 
-Please install the MMDetection first, you can find the tutorial on their GitHub site.
+Please install the MMDetection first, which you can find the tutorial on their GitHub site.
 
-Your working directory should be similar as follow
+Your working directory should be similar as follow.
 
 ```
 .
