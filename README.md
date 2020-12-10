@@ -13,7 +13,7 @@ The following specs were used to create the original solution.
 
 - Ubuntu 18.04.5 LTS
 - Intel(R) Xeon(R) CPU @ 2.30GHz
-- Tesla T4
+- NVidia Tesla T4
 
 ## Requirements
 
